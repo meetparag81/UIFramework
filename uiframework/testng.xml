@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke suite">
+<listeners>
+<listener class-name="uiframework.uiframework.Paragcom.freecrm.helper.Listener.ExtentListner"></listener>
+</listeners>
+  <test thread-count="5" name="ReportTest">
+    <classes>
+      <class name="uiframework.uiframework.Paragcom.freecrm.TestScript.Report"/>
+      <class name="uiframework.uiframework.Paragcom.freecrm.TestScript.Test2"/>
+      <class name="uiframework.uiframework.Paragcom.freecrm.TestScript.TestScreen"/>
+ 
+    </classes>
+  </test> <!-- ReportTest -->
+</suite> <!-- Suite -->

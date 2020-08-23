@@ -1,0 +1,1059 @@
+2019-01-05 23:01:275 INFO  LoggerHelper:29 - loggers is configured
+2019-01-05 23:01:282 INFO  LoggerHelper:30 - loggers is configured
+2019-01-05 23:01:282 INFO  LoggerHelper:31 - loggers is configured
+2019-01-05 23:01:344 INFO  LoggerHelper:29 - loggers is configured
+2019-01-05 23:01:346 INFO  LoggerHelper:30 - loggers is configured
+2019-01-05 23:01:347 INFO  LoggerHelper:31 - loggers is configured
+2019-01-05 23:01:623 INFO  LoggerHelper:29 - loggers is configured
+2019-01-05 23:01:626 INFO  LoggerHelper:30 - loggers is configured
+2019-01-05 23:01:627 INFO  LoggerHelper:31 - loggers is configured
+2019-01-14 23:01:515 INFO  ExcelHelper:140 - data is addeded
+2019-01-14 23:01:626 INFO  ExcelHelper:142 - data is addeded
+2019-01-14 23:01:508 INFO  ExcelHelper:116 - result updated..
+2019-01-14 23:01:687 INFO  ExcelHelper:140 - data is addeded
+2019-01-14 23:01:743 INFO  ExcelHelper:116 - result updated..
+2019-01-14 23:01:873 INFO  ExcelHelper:116 - result updated..
+2019-01-14 23:01:970 INFO  ExcelHelper:140 - data is addeded
+2019-01-14 23:01:05 INFO  ExcelHelper:116 - result updated..
+2019-01-14 23:01:27 INFO  ExcelHelper:142 - data is addeded
+2019-01-14 23:01:870 INFO  ExcelHelper:116 - result updated..
+2019-01-14 23:01:411 INFO  ExcelHelper:116 - result updated..
+2019-01-14 23:01:84 INFO  ExcelHelper:116 - result updated..
+2019-01-17 22:01:249 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:358 INFO  LoggerHelper:29 - loggers is configured
+2019-01-17 23:01:360 INFO  LoggerHelper:30 - loggers is configured
+2019-01-17 23:01:360 INFO  LoggerHelper:31 - loggers is configured
+2019-01-17 23:01:914 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:404 INFO  TestBase:71 - **************testLoginFinished***************
+2019-01-17 23:01:710 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:140 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:147 INFO  TestBase:72 - **************testLoginFinished***************
+2019-01-17 23:01:150 INFO  AssertHelper:26 - making script FAIL..
+2019-01-17 23:01:180 INFO  TestBase:72 - **************testLogin1Finished***************
+2019-01-17 23:01:183 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:185 INFO  TestBase:72 - **************testLogin2Finished***************
+2019-01-17 23:01:187 INFO  AssertHelper:26 - making script FAIL..
+2019-01-17 23:01:191 INFO  TestBase:72 - **************testLogin3Finished***************
+2019-01-17 23:01:395 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:404 INFO  AssertHelper:26 - making script FAIL..
+2019-01-17 23:01:415 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:420 INFO  AssertHelper:26 - making script FAIL..
+2019-01-17 23:01:388 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:724 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:336 INFO  TestBase:77 - The class is not found for extend.flush
+2019-01-17 23:01:833 INFO  TestBase:79 - **************testLoginFinished***************
+2019-01-17 23:01:382 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:274 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:677 INFO  TestBase:71 - **************testLoginFinished***************
+2019-01-17 23:01:244 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:250 INFO  TestBase:71 - **************testLoginFinished***************
+2019-01-17 23:01:939 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:489 INFO  TestBase:71 - **************testLoginFinished***************
+2019-01-17 23:01:292 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:297 INFO  TestBase:71 - **************testLoginFinished***************
+2019-01-17 23:01:578 INFO  AssertHelper:26 - making script FAIL..
+2019-01-17 23:01:588 INFO  TestBase:71 - **************testLogin1Finished***************
+2019-01-17 23:01:768 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:771 INFO  TestBase:71 - **************testLogin2Finished***************
+2019-01-17 23:01:844 INFO  AssertHelper:26 - making script FAIL..
+2019-01-17 23:01:849 INFO  TestBase:71 - **************testLogin3Finished***************
+2019-01-17 23:01:786 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:303 INFO  TestBase:71 - **************testLoginFinished***************
+2019-01-17 23:01:894 INFO  AssertHelper:16 - making script PASS..
+2019-01-17 23:01:921 INFO  TestBase:72 - **************testLoginFinished***************
+2019-01-18 00:01:794 INFO  AssertHelper:16 - making script PASS..
+2019-01-18 00:01:800 INFO  TestBase:72 - **************testLoginFinished***************
+2019-01-18 00:01:86 INFO  AssertHelper:26 - making script FAIL..
+2019-01-18 00:01:97 INFO  TestBase:72 - **************testLogin1Finished***************
+2019-01-18 00:01:202 INFO  AssertHelper:16 - making script PASS..
+2019-01-18 00:01:205 INFO  TestBase:72 - **************testLogin2Finished***************
+2019-01-18 00:01:257 INFO  AssertHelper:26 - making script FAIL..
+2019-01-18 00:01:261 INFO  TestBase:72 - **************testLogin3Finished***************
+2019-01-18 00:01:949 INFO  AssertHelper:16 - making script PASS..
+2019-01-18 00:01:956 INFO  TestBase:72 - **************testLoginFinished***************
+2019-01-18 00:01:239 INFO  AssertHelper:26 - making script FAIL..
+2019-01-18 00:01:254 INFO  TestBase:72 - **************testLogin1Finished***************
+2019-01-18 00:01:363 INFO  AssertHelper:16 - making script PASS..
+2019-01-18 00:01:365 INFO  TestBase:72 - **************testLogin2Finished***************
+2019-01-18 00:01:426 INFO  AssertHelper:26 - making script FAIL..
+2019-01-18 00:01:430 INFO  TestBase:72 - **************testLogin3Finished***************
+2019-01-18 00:01:497 INFO  AssertHelper:26 - making script FAIL..
+2019-01-18 00:01:502 INFO  TestBase:72 - **************testLogin1Finished***************
+2019-01-18 00:01:557 INFO  AssertHelper:16 - making script PASS..
+2019-01-18 00:01:559 INFO  TestBase:72 - **************testLogin2Finished***************
+2019-01-18 00:01:619 INFO  AssertHelper:26 - making script FAIL..
+2019-01-18 00:01:622 INFO  TestBase:72 - **************testLogin3Finished***************
+2019-01-18 00:01:265 INFO  AssertHelper:16 - making script PASS..
+2019-01-18 00:01:271 INFO  TestBase:72 - **************testLoginFinished***************
+2019-01-18 00:01:560 INFO  AssertHelper:26 - making script FAIL..
+2019-01-18 00:01:569 INFO  TestBase:72 - **************testLogin1Finished***************
+2019-01-18 00:01:675 INFO  AssertHelper:16 - making script PASS..
+2019-01-18 00:01:678 INFO  TestBase:72 - **************testLogin2Finished***************
+2019-01-18 00:01:733 INFO  AssertHelper:26 - making script FAIL..
+2019-01-18 00:01:737 INFO  TestBase:72 - **************testLogin3Finished***************
+2019-01-18 00:01:806 INFO  AssertHelper:26 - making script FAIL..
+2019-01-18 00:01:810 INFO  TestBase:72 - **************testLogin4Finished***************
+2019-01-18 00:01:864 INFO  AssertHelper:16 - making script PASS..
+2019-01-18 00:01:867 INFO  TestBase:72 - **************testLogin5Finished***************
+2019-01-18 00:01:928 INFO  AssertHelper:26 - making script FAIL..
+2019-01-18 00:01:932 INFO  TestBase:72 - **************testLogin6Finished***************
+2019-01-18 18:01:946 INFO  TestBase:145 - initalized webdriver1164799006
+2019-01-18 18:01:980 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 18:01:980 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 18:01:25 INFO  WaitHelper:147 - page is loaded
+2019-01-18 18:01:25 INFO  WaitHelper:38 - Implicit Wait has been set to: 0
+2019-01-18 18:01:912 INFO  TestBase:145 - initalized webdriver2003147568
+2019-01-18 18:01:916 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 18:01:917 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 18:01:924 INFO  WaitHelper:147 - page is loaded
+2019-01-18 18:01:924 INFO  WaitHelper:38 - Implicit Wait has been set to: 0
+2019-01-18 18:01:856 INFO  TestBase:101 - **************TestScreenFinished***************
+2019-01-18 18:01:494 INFO  TestBase:101 - **************TestScreenFinished***************
+2019-01-18 19:01:578 INFO  TestBase:145 - initalized webdriver1661161169
+2019-01-18 19:01:585 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 19:01:255 INFO  TestBase:145 - initalized webdriver348148678
+2019-01-18 19:01:263 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 19:01:264 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 19:01:294 INFO  WaitHelper:147 - page is loaded
+2019-01-18 19:01:295 INFO  WaitHelper:38 - Implicit Wait has been set to: 0
+2019-01-18 22:01:05 INFO  TestBase:145 - initalized webdriver1200470358
+2019-01-18 22:01:92 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 22:01:93 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 22:01:128 INFO  WaitHelper:147 - page is loaded
+2019-01-18 22:01:143 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-18 22:01:57 INFO  TestBase:101 - **************TestScreenFinished***************
+2019-01-18 22:01:667 INFO  TestBase:145 - initalized webdriver1200470358
+2019-01-18 22:01:821 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 22:01:822 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 22:01:856 INFO  WaitHelper:147 - page is loaded
+2019-01-18 22:01:856 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-18 22:01:535 INFO  TestBase:101 - **************TestScreenFinished***************
+2019-01-18 22:01:855 INFO  TestBase:145 - initalized webdriver348148678
+2019-01-18 22:01:884 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 22:01:886 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 22:01:964 INFO  WaitHelper:147 - page is loaded
+2019-01-18 22:01:966 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-18 22:01:235 INFO  TestBase:145 - initalized webdriver1796047085
+2019-01-18 22:01:273 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 22:01:274 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 22:01:302 INFO  WaitHelper:147 - page is loaded
+2019-01-18 22:01:302 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-18 23:01:850 INFO  TestBase:145 - initalized webdriver1822525972
+2019-01-18 23:01:855 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 23:01:855 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 23:01:973 INFO  WaitHelper:147 - page is loaded
+2019-01-18 23:01:974 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-18 23:01:282 INFO  TestBase:101 - **************TestScreenFinished***************
+2019-01-18 23:01:171 INFO  TestBase:145 - initalized webdriver348148678
+2019-01-18 23:01:178 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 23:01:180 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 23:01:203 INFO  WaitHelper:147 - page is loaded
+2019-01-18 23:01:204 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-18 23:01:472 INFO  TestBase:145 - initalized webdriver1200470358
+2019-01-18 23:01:475 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 23:01:475 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 23:01:892 INFO  WaitHelper:147 - page is loaded
+2019-01-18 23:01:892 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-18 23:01:472 INFO  TestBase:101 - **************TestScreenFinished***************
+2019-01-18 23:01:305 INFO  TestBase:145 - initalized webdriver1200470358
+2019-01-18 23:01:309 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 23:01:309 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 23:01:325 INFO  WaitHelper:147 - page is loaded
+2019-01-18 23:01:325 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-18 23:01:481 INFO  TestBase:101 - **************TestScreenshotFinished***************
+2019-01-18 23:01:178 INFO  TestBase:145 - initalized webdriver611502040
+2019-01-18 23:01:182 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 23:01:182 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 23:01:234 INFO  WaitHelper:147 - page is loaded
+2019-01-18 23:01:235 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-18 23:01:570 INFO  TestBase:145 - initalized webdriver1200470358
+2019-01-18 23:01:575 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-18 23:01:575 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-18 23:01:595 INFO  WaitHelper:147 - page is loaded
+2019-01-18 23:01:596 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-18 23:01:213 INFO  TestBase:101 - **************TestScreenshotFinished***************
+2019-01-19 14:01:154 INFO  TestBase:145 - initalized webdriver1200470358
+2019-01-19 14:01:872 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-19 14:01:872 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-19 14:01:962 INFO  WaitHelper:147 - page is loaded
+2019-01-19 14:01:963 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-19 14:01:734 INFO  TestBase:101 - **************TestScreenshotFinished***************
+2019-01-19 14:01:735 INFO  TestBase:145 - initalized webdriver348148678
+2019-01-19 14:01:744 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-19 14:01:745 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-19 14:01:768 INFO  WaitHelper:147 - page is loaded
+2019-01-19 14:01:769 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-19 14:01:939 INFO  TestBase:101 - **************TestScreenshotFinished***************
+2019-01-19 15:01:835 INFO  TestBase:145 - initalized webdriver814111376
+2019-01-19 15:01:838 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-19 15:01:839 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-19 15:01:174 INFO  WaitHelper:147 - page is loaded
+2019-01-19 15:01:175 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-19 15:01:922 INFO  TestBase:101 - **************TestScreenshotFinished***************
+2019-01-19 16:01:260 INFO  TestBase:145 - initalized webdriver153646652
+2019-01-19 16:01:84 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-19 16:01:86 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-19 16:01:170 INFO  WaitHelper:147 - page is loaded
+2019-01-19 16:01:170 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-19 16:01:440 INFO  AssertHelper:16 - making script PASS..
+2019-01-19 16:01:449 INFO  TestBase:101 - **************testLoginFinished***************
+2019-01-19 16:01:321 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:353 INFO  TestBase:101 - **************testLogin1Finished***************
+2019-01-19 16:01:419 INFO  AssertHelper:16 - making script PASS..
+2019-01-19 16:01:422 INFO  TestBase:101 - **************testLogin2Finished***************
+2019-01-19 16:01:468 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:472 INFO  TestBase:101 - **************testLogin3Finished***************
+2019-01-19 16:01:556 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:562 INFO  TestBase:101 - **************testLogin4Finished***************
+2019-01-19 16:01:634 INFO  AssertHelper:16 - making script PASS..
+2019-01-19 16:01:639 INFO  TestBase:101 - **************testLogin5Finished***************
+2019-01-19 16:01:703 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:707 INFO  TestBase:101 - **************testLogin6Finished***************
+2019-01-19 16:01:760 INFO  TestBase:145 - initalized webdriver153646652
+2019-01-19 16:01:763 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-19 16:01:767 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-19 16:01:781 INFO  WaitHelper:147 - page is loaded
+2019-01-19 16:01:782 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-19 16:01:830 INFO  AssertHelper:16 - making script PASS..
+2019-01-19 16:01:838 INFO  TestBase:101 - **************testLoginFinished***************
+2019-01-19 16:01:196 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:205 INFO  TestBase:101 - **************testLogin1Finished***************
+2019-01-19 16:01:304 INFO  AssertHelper:16 - making script PASS..
+2019-01-19 16:01:307 INFO  TestBase:101 - **************testLogin2Finished***************
+2019-01-19 16:01:372 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:378 INFO  TestBase:101 - **************testLogin3Finished***************
+2019-01-19 16:01:563 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:566 INFO  TestBase:101 - **************testLogin4Finished***************
+2019-01-19 16:01:635 INFO  AssertHelper:16 - making script PASS..
+2019-01-19 16:01:639 INFO  TestBase:101 - **************testLogin5Finished***************
+2019-01-19 16:01:695 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:699 INFO  TestBase:101 - **************testLogin6Finished***************
+2019-01-19 16:01:185 INFO  TestBase:145 - initalized webdriver153646652
+2019-01-19 16:01:189 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-19 16:01:190 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-19 16:01:206 INFO  WaitHelper:147 - page is loaded
+2019-01-19 16:01:208 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-19 16:01:263 INFO  AssertHelper:16 - making script PASS..
+2019-01-19 16:01:267 INFO  TestBase:101 - **************testLoginFinished***************
+2019-01-19 16:01:629 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:650 INFO  TestBase:101 - **************testLogin1Finished***************
+2019-01-19 16:01:756 INFO  AssertHelper:16 - making script PASS..
+2019-01-19 16:01:758 INFO  TestBase:101 - **************testLogin2Finished***************
+2019-01-19 16:01:819 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:827 INFO  TestBase:101 - **************testLogin3Finished***************
+2019-01-19 16:01:919 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:925 INFO  TestBase:101 - **************testLogin4Finished***************
+2019-01-19 16:01:983 INFO  AssertHelper:16 - making script PASS..
+2019-01-19 16:01:988 INFO  TestBase:101 - **************testLogin5Finished***************
+2019-01-19 16:01:76 INFO  AssertHelper:26 - making script FAIL..
+2019-01-19 16:01:80 INFO  TestBase:101 - **************testLogin6Finished***************
+2019-01-21 22:01:437 INFO  TestBase:147 - initalized webdriver1200470358
+2019-01-21 22:01:509 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-21 22:01:510 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-21 22:01:524 INFO  WaitHelper:147 - page is loaded
+2019-01-21 22:01:524 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-21 22:01:351 INFO  TestBase:103 - **************TestscreenFinished***************
+2019-01-21 22:01:964 INFO  TestBase:147 - initalized webdriver1200470358
+2019-01-21 22:01:967 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-21 22:01:968 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-21 22:01:244 INFO  WaitHelper:147 - page is loaded
+2019-01-21 22:01:247 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-21 22:01:504 INFO  TestBase:103 - **************TestscreenFinished***************
+2019-01-21 22:01:939 INFO  TestBase:147 - initalized webdriver1200470358
+2019-01-21 22:01:945 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-21 22:01:946 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-21 22:01:965 INFO  WaitHelper:147 - page is loaded
+2019-01-21 22:01:966 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-21 22:01:385 INFO  TestBase:104 - **************TestscreenFinished***************
+2019-01-21 22:01:559 INFO  TestBase:147 - initalized webdriver1200470358
+2019-01-21 22:01:563 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-21 22:01:564 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-21 22:01:574 INFO  WaitHelper:147 - page is loaded
+2019-01-21 22:01:575 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-21 22:01:202 INFO  TestBase:104 - **************TestscreenFinished***************
+2019-01-21 22:01:616 INFO  TestBase:147 - initalized webdriver1200470358
+2019-01-21 22:01:619 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-21 22:01:619 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-21 22:01:674 INFO  WaitHelper:147 - page is loaded
+2019-01-21 22:01:675 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-21 22:01:249 INFO  TestBase:104 - **************TestscreenFinished***************
+2019-01-21 22:01:755 INFO  TestBase:147 - initalized webdriver348148678
+2019-01-21 22:01:760 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-21 22:01:760 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-21 22:01:776 INFO  WaitHelper:147 - page is loaded
+2019-01-21 22:01:777 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-21 22:01:183 INFO  TestBase:147 - initalized webdriver814111376
+2019-01-21 22:01:196 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-21 22:01:197 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-21 22:01:547 INFO  WaitHelper:147 - page is loaded
+2019-01-21 22:01:549 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-21 22:01:803 INFO  TestBase:147 - initalized webdriver348148678
+2019-01-21 22:01:810 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-21 22:01:811 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-21 22:01:833 INFO  WaitHelper:147 - page is loaded
+2019-01-21 22:01:833 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-21 23:01:972 INFO  TestBase:147 - initalized webdriver814111376
+2019-01-21 23:01:982 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-21 23:01:982 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-21 23:01:00 INFO  WaitHelper:147 - page is loaded
+2019-01-21 23:01:01 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-21 23:01:616 INFO  TestBase:177 - screenshot copied
+2019-01-21 23:01:916 INFO  TestBase:18 - Screenshot is saved
+2019-01-24 22:01:260 INFO  TestBase:148 - initalized webdriver2053996178
+2019-01-24 22:01:385 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 22:01:386 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 22:01:461 INFO  WaitHelper:147 - page is loaded
+2019-01-24 22:01:461 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 22:01:549 INFO  TestBase:148 - initalized webdriver1894144426
+2019-01-24 22:01:554 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 22:01:555 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 22:01:570 INFO  WaitHelper:147 - page is loaded
+2019-01-24 22:01:571 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 22:01:761 INFO  TestBase:148 - initalized webdriver1894144426
+2019-01-24 22:01:767 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 22:01:767 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 22:01:783 INFO  WaitHelper:147 - page is loaded
+2019-01-24 22:01:784 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 22:01:592 INFO  TestBase:148 - initalized webdriver1894144426
+2019-01-24 22:01:597 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 22:01:597 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 22:01:614 INFO  WaitHelper:147 - page is loaded
+2019-01-24 22:01:615 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 22:01:736 INFO  TestBase:149 - initalized webdriver1894144426
+2019-01-24 22:01:744 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 22:01:744 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 22:01:761 INFO  WaitHelper:147 - page is loaded
+2019-01-24 22:01:762 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 23:01:425 INFO  TestBase:149 - initalized webdriver2053996178
+2019-01-24 23:01:429 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 23:01:430 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 23:01:442 INFO  WaitHelper:147 - page is loaded
+2019-01-24 23:01:442 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 23:01:95 INFO  TestBase:148 - initalized webdriver370475881
+2019-01-24 23:01:101 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 23:01:102 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 23:01:116 INFO  WaitHelper:147 - page is loaded
+2019-01-24 23:01:116 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 23:01:293 INFO  TestBase:148 - initalized webdriver677317086
+2019-01-24 23:01:298 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 23:01:299 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 23:01:315 INFO  WaitHelper:147 - page is loaded
+2019-01-24 23:01:315 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 23:01:298 INFO  TestBase:148 - initalized webdriver1894144426
+2019-01-24 23:01:305 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 23:01:305 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 23:01:327 INFO  WaitHelper:147 - page is loaded
+2019-01-24 23:01:328 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 23:01:811 INFO  TestBase:148 - initalized webdriver2053996178
+2019-01-24 23:01:165 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 23:01:166 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 23:01:285 INFO  WaitHelper:147 - page is loaded
+2019-01-24 23:01:286 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 23:01:960 INFO  TestBase:148 - initalized webdriver47918293
+2019-01-24 23:01:967 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 23:01:968 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 23:01:993 INFO  WaitHelper:147 - page is loaded
+2019-01-24 23:01:994 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 23:01:39 INFO  TestBase:149 - initalized webdriver1894144426
+2019-01-24 23:01:44 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 23:01:45 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 23:01:65 INFO  WaitHelper:147 - page is loaded
+2019-01-24 23:01:66 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 23:01:935 INFO  TestBase:149 - initalized webdriver11249189
+2019-01-24 23:01:938 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 23:01:939 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 23:01:960 INFO  WaitHelper:147 - page is loaded
+2019-01-24 23:01:960 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-24 23:01:601 INFO  TestBase:149 - initalized webdriver2053996178
+2019-01-24 23:01:606 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-24 23:01:606 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-24 23:01:621 INFO  WaitHelper:147 - page is loaded
+2019-01-24 23:01:621 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:896 INFO  TestBase:149 - initalized webdriver677317086
+2019-01-25 23:01:59 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:60 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:181 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:181 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:631 INFO  TestBase:149 - initalized webdriver11249189
+2019-01-25 23:01:635 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:639 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:661 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:662 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:03 INFO  TestBase:149 - initalized webdriver2053996178
+2019-01-25 23:01:09 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:10 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:20 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:21 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:730 INFO  TestBase:18 - Screenshot is saved
+2019-01-25 23:01:952 INFO  TestBase:149 - initalized webdriver2053996178
+2019-01-25 23:01:957 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:958 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:970 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:970 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:276 INFO  TestBase:18 - Screenshot is saved
+2019-01-25 23:01:578 INFO  TestBase:149 - initalized webdriver2053996178
+2019-01-25 23:01:635 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:635 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:660 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:661 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:325 INFO  TestBase:18 - Screenshot is saved
+2019-01-25 23:01:332 INFO  TestBase:106 - **************TestscreenFinished***************
+2019-01-25 23:01:805 INFO  TestBase:149 - initalized webdriver2053996178
+2019-01-25 23:01:808 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:808 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:935 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:935 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:237 INFO  TestBase:179 - screenshot copied
+2019-01-25 23:01:238 INFO  TestBase:18 - Screenshot is saved
+2019-01-25 23:01:241 INFO  TestBase:106 - **************TestscreenFinished***************
+2019-01-25 23:01:181 INFO  TestBase:149 - initalized webdriver2053996178
+2019-01-25 23:01:186 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:187 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:204 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:204 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:332 INFO  TestBase:179 - screenshot copied
+2019-01-25 23:01:332 INFO  TestBase:18 - Screenshot is saved
+2019-01-25 23:01:335 INFO  TestBase:106 - **************TestscreenFinished***************
+2019-01-25 23:01:644 INFO  TestBase:149 - initalized webdriver1894144426
+2019-01-25 23:01:650 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:650 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:700 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:701 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:373 INFO  TestBase:179 - screenshot copied
+2019-01-25 23:01:271 INFO  TestBase:18 - Screenshot is saved
+2019-01-25 23:01:22 INFO  TestBase:149 - initalized webdriver11249189
+2019-01-25 23:01:25 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:26 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:37 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:37 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:195 INFO  TestBase:179 - screenshot copied
+2019-01-25 23:01:196 INFO  TestBase:18 - Screenshot is saved
+2019-01-25 23:01:198 INFO  TestBase:106 - **************TestscreenFinished***************
+2019-01-25 23:01:897 INFO  TestBase:149 - initalized webdriver2053996178
+2019-01-25 23:01:903 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:904 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:921 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:921 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:958 INFO  TestBase:179 - screenshot copied
+2019-01-25 23:01:959 INFO  TestBase:18 - Screenshot is saved
+2019-01-25 23:01:961 INFO  TestBase:106 - **************TestscreenFinished***************
+2019-01-25 23:01:335 INFO  TestBase:149 - initalized webdriver2053996178
+2019-01-25 23:01:338 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-25 23:01:338 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-25 23:01:351 INFO  WaitHelper:147 - page is loaded
+2019-01-25 23:01:352 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-25 23:01:749 INFO  TestBase:179 - screenshot copied
+2019-01-25 23:01:749 INFO  TestBase:18 - Screenshot is saved
+2019-01-25 23:01:755 INFO  TestBase:106 - **************TestscreenFinished***************
+2019-01-26 12:01:363 INFO  TestBase:150 - initalized webdriver159290353
+2019-01-26 12:01:402 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 12:01:403 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 12:01:414 INFO  WaitHelper:147 - page is loaded
+2019-01-26 12:01:415 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 12:01:245 INFO  TestBase:150 - initalized webdriver1515877023
+2019-01-26 12:01:430 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 12:01:431 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 12:01:493 INFO  WaitHelper:147 - page is loaded
+2019-01-26 12:01:493 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 12:01:406 INFO  TestBase:188 - screenshot copied
+2019-01-26 12:01:407 INFO  TestBase:18 - Screenshot is saved
+2019-01-26 12:01:409 INFO  TestBase:107 - **************TestscreenFinished***************
+2019-01-26 12:01:539 INFO  TestBase:151 - initalized webdriver159290353
+2019-01-26 12:01:811 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 12:01:812 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 12:01:876 INFO  WaitHelper:147 - page is loaded
+2019-01-26 12:01:877 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 12:01:314 INFO  TestBase:19 - Screenshot is saved
+2019-01-26 12:01:321 INFO  TestBase:108 - **************TestscreenFinished***************
+2019-01-26 12:01:416 INFO  TestBase:151 - initalized webdriver827328832
+2019-01-26 12:01:422 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 12:01:422 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 12:01:433 INFO  WaitHelper:147 - page is loaded
+2019-01-26 12:01:434 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 12:01:809 INFO  TestBase:151 - initalized webdriver677317086
+2019-01-26 12:01:813 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 12:01:814 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 12:01:947 INFO  WaitHelper:147 - page is loaded
+2019-01-26 12:01:947 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 13:01:149 INFO  TestBase:151 - initalized webdriver677317086
+2019-01-26 13:01:157 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 13:01:158 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 13:01:178 INFO  WaitHelper:147 - page is loaded
+2019-01-26 13:01:179 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 13:01:265 INFO  TestBase:151 - initalized webdriver677317086
+2019-01-26 13:01:272 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 13:01:273 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 13:01:302 INFO  WaitHelper:147 - page is loaded
+2019-01-26 13:01:302 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 13:01:847 INFO  TestBase:151 - initalized webdriver677317086
+2019-01-26 13:01:853 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 13:01:853 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 13:01:878 INFO  WaitHelper:147 - page is loaded
+2019-01-26 13:01:879 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 13:01:368 INFO  TestBase:151 - initalized webdriver677317086
+2019-01-26 13:01:386 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 13:01:387 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 13:01:439 INFO  WaitHelper:147 - page is loaded
+2019-01-26 13:01:439 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 13:01:468 INFO  TestBase:151 - initalized webdriver677317086
+2019-01-26 13:01:472 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 13:01:473 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 13:01:487 INFO  WaitHelper:147 - page is loaded
+2019-01-26 13:01:487 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 13:01:262 INFO  TestBase:191 - screenshot copied
+2019-01-26 22:01:995 INFO  TestBase:151 - initalized webdriver1515877023
+2019-01-26 22:01:43 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 22:01:44 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 22:01:85 INFO  WaitHelper:147 - page is loaded
+2019-01-26 22:01:85 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 22:01:974 INFO  TestBase:151 - initalized webdriver159290353
+2019-01-26 22:01:160 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 22:01:160 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 22:01:204 INFO  WaitHelper:147 - page is loaded
+2019-01-26 22:01:204 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 22:01:708 INFO  TestBase:151 - initalized webdriver677317086
+2019-01-26 22:01:712 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 22:01:713 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 22:01:727 INFO  WaitHelper:147 - page is loaded
+2019-01-26 22:01:727 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 22:01:568 INFO  TestBase:152 - initalized webdriver677317086
+2019-01-26 22:01:576 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 22:01:576 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-26 22:01:591 INFO  WaitHelper:147 - page is loaded
+2019-01-26 22:01:591 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-26 22:01:716 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-26 22:01:720 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 19:01:961 INFO  ExtentListner:28 - Test Class Started..
+2019-01-27 19:01:225 INFO  ExtentListner:28 - Test Class Started..
+2019-01-27 19:01:387 INFO  ExtentListner:28 - Test Class Started..
+2019-01-27 19:01:423 INFO  ExtentListner:35 - testLogin Test Started..
+2019-01-27 19:01:542 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 19:01:16 INFO  ExtentListner:28 - Test Class Started..
+2019-01-27 19:01:54 INFO  ExtentListner:35 - testLogin Test Started..
+2019-01-27 19:01:67 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 19:01:70 INFO  ExtentListner:45 - testLogin Test Passed..
+2019-01-27 19:01:334 INFO  TestBase:112 - **************testLoginFinished***************
+2019-01-27 19:01:337 INFO  ExtentListner:35 - testLogin1 Test Started..
+2019-01-27 19:01:338 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 19:01:678 INFO  ExtentListner:28 - Test Class Started..
+2019-01-27 19:01:717 INFO  ExtentListner:35 - testLogin Test Started..
+2019-01-27 19:01:719 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 19:01:723 INFO  ExtentListner:45 - testLogin Test Passed..
+2019-01-27 19:01:07 INFO  TestBase:112 - **************testLoginFinished***************
+2019-01-27 19:01:10 INFO  ExtentListner:35 - testLogin1 Test Started..
+2019-01-27 19:01:11 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 19:01:862 INFO  ExtentListner:28 - Test Class Started..
+2019-01-27 19:01:899 INFO  ExtentListner:35 - testLogin Test Started..
+2019-01-27 19:01:901 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 19:01:904 INFO  ExtentListner:45 - testLogin Test Passed..
+2019-01-27 19:01:179 INFO  TestBase:112 - **************testLoginFinished***************
+2019-01-27 19:01:182 INFO  ExtentListner:35 - testLogin1 Test Started..
+2019-01-27 19:01:183 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 19:01:188 ERROR ExtentListner:53 - testLogin1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 19:01:263 INFO  TestBase:112 - **************testLogin1Finished***************
+2019-01-27 19:01:266 INFO  ExtentListner:35 - testLogin2 Test Started..
+2019-01-27 19:01:266 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 19:01:268 INFO  ExtentListner:45 - testLogin2 Test Passed..
+2019-01-27 19:01:325 INFO  TestBase:112 - **************testLogin2Finished***************
+2019-01-27 19:01:328 INFO  ExtentListner:35 - testLogin3 Test Started..
+2019-01-27 19:01:329 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 19:01:332 ERROR ExtentListner:53 - testLogin3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 19:01:398 INFO  TestBase:112 - **************testLogin3Finished***************
+2019-01-27 19:01:403 INFO  ExtentListner:35 - testLogin4 Test Started..
+2019-01-27 19:01:404 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 19:01:406 ERROR ExtentListner:53 - testLogin4 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 19:01:450 INFO  TestBase:112 - **************testLogin4Finished***************
+2019-01-27 19:01:452 INFO  ExtentListner:35 - testLogin5 Test Started..
+2019-01-27 19:01:453 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 19:01:455 INFO  ExtentListner:45 - testLogin5 Test Passed..
+2019-01-27 19:01:498 INFO  TestBase:112 - **************testLogin5Finished***************
+2019-01-27 19:01:501 INFO  ExtentListner:35 - testLogin6 Test Started..
+2019-01-27 19:01:502 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 19:01:513 ERROR ExtentListner:53 - testLogin6 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 19:01:592 INFO  TestBase:112 - **************testLogin6Finished***************
+2019-01-27 19:01:82 INFO  ExtentListner:28 - Test Class Started..
+2019-01-27 19:01:124 INFO  ExtentListner:35 - testLogin Test Started..
+2019-01-27 19:01:126 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 19:01:129 INFO  ExtentListner:45 - testLogin Test Passed..
+2019-01-27 19:01:424 INFO  TestBase:112 - **************testLoginFinished***************
+2019-01-27 19:01:426 INFO  ExtentListner:35 - testLogin1 Test Started..
+2019-01-27 19:01:427 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 19:01:431 ERROR ExtentListner:53 - testLogin1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 19:01:509 INFO  TestBase:112 - **************testLogin1Finished***************
+2019-01-27 19:01:513 INFO  ExtentListner:35 - testLogin2 Test Started..
+2019-01-27 19:01:513 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 19:01:515 INFO  ExtentListner:45 - testLogin2 Test Passed..
+2019-01-27 19:01:576 INFO  TestBase:112 - **************testLogin2Finished***************
+2019-01-27 19:01:579 INFO  ExtentListner:35 - testLogin3 Test Started..
+2019-01-27 19:01:579 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 19:01:582 ERROR ExtentListner:53 - testLogin3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 19:01:643 INFO  TestBase:112 - **************testLogin3Finished***************
+2019-01-27 20:01:190 INFO  ExtentListner:28 - Report Class Started..
+2019-01-27 20:01:228 INFO  ExtentListner:35 - testLogin Test Started..
+2019-01-27 20:01:229 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:232 INFO  ExtentListner:45 - testLogin Test Passed..
+2019-01-27 20:01:492 INFO  TestBase:112 - **************testLoginFinished***************
+2019-01-27 20:01:496 INFO  ExtentListner:35 - testLogin1 Test Started..
+2019-01-27 20:01:497 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:502 ERROR ExtentListner:53 - testLogin1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 20:01:600 INFO  TestBase:112 - **************testLogin1Finished***************
+2019-01-27 20:01:604 INFO  ExtentListner:35 - testLogin2 Test Started..
+2019-01-27 20:01:606 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:607 INFO  ExtentListner:45 - testLogin2 Test Passed..
+2019-01-27 20:01:662 INFO  TestBase:112 - **************testLogin2Finished***************
+2019-01-27 20:01:666 INFO  ExtentListner:35 - testLogin3 Test Started..
+2019-01-27 20:01:667 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:670 ERROR ExtentListner:53 - testLogin3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 20:01:725 INFO  TestBase:112 - **************testLogin3Finished***************
+2019-01-27 20:01:103 INFO  ExtentListner:27 - Report Class Started..
+2019-01-27 20:01:142 INFO  ExtentListner:34 - testLogin Test Started..
+2019-01-27 20:01:144 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:147 INFO  ExtentListner:44 - testLogin Test Passed..
+2019-01-27 20:01:418 INFO  TestBase:112 - **************testLoginFinished***************
+2019-01-27 20:01:420 INFO  ExtentListner:34 - testLogin1 Test Started..
+2019-01-27 20:01:421 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:425 ERROR ExtentListner:52 - testLogin1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 20:01:497 INFO  TestBase:112 - **************testLogin1Finished***************
+2019-01-27 20:01:500 INFO  ExtentListner:34 - testLogin2 Test Started..
+2019-01-27 20:01:501 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:503 INFO  ExtentListner:44 - testLogin2 Test Passed..
+2019-01-27 20:01:573 INFO  TestBase:112 - **************testLogin2Finished***************
+2019-01-27 20:01:582 INFO  ExtentListner:34 - testLogin3 Test Started..
+2019-01-27 20:01:583 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:595 ERROR ExtentListner:52 - testLogin3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 20:01:663 INFO  TestBase:112 - **************testLogin3Finished***************
+2019-01-27 20:01:903 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:163 INFO  TestBase:112 - **************LoginFinished***************
+2019-01-27 20:01:165 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:237 INFO  TestBase:112 - **************Login1Finished***************
+2019-01-27 20:01:242 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:294 INFO  TestBase:112 - **************Login2Finished***************
+2019-01-27 20:01:297 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:353 INFO  TestBase:112 - **************Login3Finished***************
+2019-01-27 20:01:358 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:405 INFO  TestBase:112 - **************testLogin4Finished***************
+2019-01-27 20:01:408 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:450 INFO  TestBase:112 - **************testLogin5Finished***************
+2019-01-27 20:01:453 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:506 INFO  TestBase:112 - **************testLogin6Finished***************
+2019-01-27 20:01:549 INFO  TestBase:112 - **************TestscreenFinished***************
+2019-01-27 20:01:293 INFO  TestBase:158 - initalized webdriver610454273
+2019-01-27 20:01:324 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 20:01:326 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 20:01:406 INFO  WaitHelper:147 - page is loaded
+2019-01-27 20:01:407 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 20:01:465 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:784 INFO  TestBase:112 - **************LoginFinished***************
+2019-01-27 20:01:788 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:870 INFO  TestBase:112 - **************Login1Finished***************
+2019-01-27 20:01:873 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:927 INFO  TestBase:112 - **************Login2Finished***************
+2019-01-27 20:01:930 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:989 INFO  TestBase:112 - **************Login3Finished***************
+2019-01-27 20:01:994 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:34 INFO  TestBase:112 - **************testLogin4Finished***************
+2019-01-27 20:01:37 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:80 INFO  TestBase:112 - **************testLogin5Finished***************
+2019-01-27 20:01:82 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:139 INFO  TestBase:112 - **************testLogin6Finished***************
+2019-01-27 20:01:188 INFO  TestBase:112 - **************TestscreenFinished***************
+2019-01-27 20:01:951 INFO  TestBase:158 - initalized webdriver610454273
+2019-01-27 20:01:957 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 20:01:958 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 20:01:983 INFO  WaitHelper:147 - page is loaded
+2019-01-27 20:01:984 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 20:01:162 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:443 INFO  TestBase:112 - **************LoginFinished***************
+2019-01-27 20:01:446 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:523 INFO  TestBase:112 - **************Login1Finished***************
+2019-01-27 20:01:527 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:592 INFO  TestBase:112 - **************Login2Finished***************
+2019-01-27 20:01:595 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:655 INFO  TestBase:112 - **************Login3Finished***************
+2019-01-27 20:01:658 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:696 INFO  TestBase:112 - **************testLogin4Finished***************
+2019-01-27 20:01:699 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:750 INFO  TestBase:112 - **************testLogin5Finished***************
+2019-01-27 20:01:753 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:802 INFO  TestBase:112 - **************testLogin6Finished***************
+2019-01-27 20:01:852 INFO  TestBase:112 - **************TestscreenFinished***************
+2019-01-27 20:01:931 INFO  TestBase:158 - initalized webdriver814111376
+2019-01-27 20:01:65 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 20:01:66 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 20:01:83 INFO  WaitHelper:147 - page is loaded
+2019-01-27 20:01:83 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 20:01:126 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:212 INFO  TestBase:112 - **************LoginFinished***************
+2019-01-27 20:01:219 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:316 INFO  TestBase:112 - **************Login1Finished***************
+2019-01-27 20:01:319 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:388 INFO  TestBase:112 - **************Login2Finished***************
+2019-01-27 20:01:390 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:473 INFO  TestBase:112 - **************Login3Finished***************
+2019-01-27 20:01:478 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:532 INFO  TestBase:112 - **************testLogin4Finished***************
+2019-01-27 20:01:536 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:688 INFO  TestBase:112 - **************testLogin5Finished***************
+2019-01-27 20:01:693 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:758 INFO  TestBase:112 - **************testLogin6Finished***************
+2019-01-27 20:01:646 INFO  TestBase:158 - initalized webdriver2004655561
+2019-01-27 20:01:663 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 20:01:664 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 20:01:697 INFO  WaitHelper:147 - page is loaded
+2019-01-27 20:01:697 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 20:01:812 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:306 INFO  TestBase:112 - **************LoginFinished***************
+2019-01-27 20:01:309 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:395 INFO  TestBase:112 - **************Login1Finished***************
+2019-01-27 20:01:398 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:457 INFO  TestBase:112 - **************Login2Finished***************
+2019-01-27 20:01:460 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:518 INFO  TestBase:112 - **************Login3Finished***************
+2019-01-27 20:01:522 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:560 INFO  TestBase:112 - **************testLogin4Finished***************
+2019-01-27 20:01:563 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:612 INFO  TestBase:112 - **************testLogin5Finished***************
+2019-01-27 20:01:657 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:718 INFO  TestBase:112 - **************testLogin6Finished***************
+2019-01-27 20:01:353 INFO  TestBase:170 - initalized webdriver1944138464
+2019-01-27 20:01:358 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 20:01:359 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 20:01:376 INFO  WaitHelper:147 - page is loaded
+2019-01-27 20:01:377 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 20:01:438 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:869 INFO  TestBase:124 - **************LoginFinished***************
+2019-01-27 20:01:872 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:975 INFO  TestBase:124 - **************Login1Finished***************
+2019-01-27 20:01:977 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:33 INFO  TestBase:124 - **************Login2Finished***************
+2019-01-27 20:01:35 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:97 INFO  TestBase:124 - **************Login3Finished***************
+2019-01-27 20:01:102 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:163 INFO  TestBase:124 - **************testLogin4Finished***************
+2019-01-27 20:01:167 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 20:01:213 INFO  TestBase:124 - **************testLogin5Finished***************
+2019-01-27 20:01:218 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 20:01:335 INFO  TestBase:124 - **************testLogin6Finished***************
+2019-01-27 21:01:481 INFO  TestBase:170 - initalized webdriver457247584
+2019-01-27 21:01:486 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 21:01:486 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 21:01:501 INFO  WaitHelper:147 - page is loaded
+2019-01-27 21:01:502 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 21:01:618 INFO  TestBase:210 - screenshot copied
+2019-01-27 21:01:619 INFO  TestBase:26 - Screenshot is saved
+2019-01-27 21:01:921 INFO  TestBase:124 - **************TestscreenTestFinished***************
+2019-01-27 21:01:940 INFO  TestBase:170 - initalized webdriver457247584
+2019-01-27 21:01:943 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 21:01:943 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 21:01:956 INFO  WaitHelper:147 - page is loaded
+2019-01-27 21:01:957 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 21:01:920 INFO  TestBase:210 - screenshot copied
+2019-01-27 21:01:920 INFO  TestBase:26 - Screenshot is saved
+2019-01-27 21:01:216 INFO  TestBase:124 - **************TestscreenTestFinished***************
+2019-01-27 21:01:691 INFO  TestBase:170 - initalized webdriver1630841930
+2019-01-27 21:01:874 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 21:01:875 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 21:01:910 INFO  WaitHelper:147 - page is loaded
+2019-01-27 21:01:911 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 21:01:286 INFO  TestBase:210 - screenshot copied
+2019-01-27 21:01:287 INFO  TestBase:26 - Screenshot is saved
+2019-01-27 21:01:853 INFO  TestBase:124 - **************TestscreenTestFinished***************
+2019-01-27 22:01:288 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:299 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:331 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:335 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:340 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:344 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:348 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:844 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:855 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:868 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:872 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:881 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:889 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:891 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:429 INFO  ExtentListner:27 - ReportTest Class Started..
+2019-01-27 22:01:776 INFO  TestBase:170 - initalized webdriver990870941
+2019-01-27 22:01:777 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 22:01:778 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 22:01:792 INFO  WaitHelper:147 - page is loaded
+2019-01-27 22:01:792 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 22:01:833 INFO  ExtentListner:34 - Login Test Started..
+2019-01-27 22:01:834 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:840 INFO  ExtentListner:44 - Login Test Passed..
+2019-01-27 22:01:843 INFO  ExtentListner:34 - Login1 Test Started..
+2019-01-27 22:01:844 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:850 ERROR ExtentListner:52 - Login1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:855 INFO  ExtentListner:34 - Login2 Test Started..
+2019-01-27 22:01:856 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:860 INFO  ExtentListner:44 - Login2 Test Passed..
+2019-01-27 22:01:862 INFO  ExtentListner:34 - Login3 Test Started..
+2019-01-27 22:01:864 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:873 ERROR ExtentListner:52 - Login3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:878 INFO  ExtentListner:34 - testLogin4 Test Started..
+2019-01-27 22:01:879 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:885 ERROR ExtentListner:52 - testLogin4 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:890 INFO  ExtentListner:34 - testLogin5 Test Started..
+2019-01-27 22:01:891 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:894 INFO  ExtentListner:44 - testLogin5 Test Passed..
+2019-01-27 22:01:896 INFO  ExtentListner:34 - testLogin6 Test Started..
+2019-01-27 22:01:897 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:906 ERROR ExtentListner:52 - testLogin6 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:929 INFO  ExtentListner:34 - TestscreenTest Test Started..
+2019-01-27 22:01:303 ERROR ExtentListner:52 - TestscreenTest Test Failed..org.openqa.selenium.TimeoutException: Timeout loading page after 30000ms
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'PARAG-PC', ip: '192.168.1.204', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\Parag\AppData\Local\Temp\rust_mozprofile.vhGevW7oLmDS, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=7820, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 904fe5f3-7266-4e50-aa9d-a0ae71bb0b00
+2019-01-27 22:01:706 INFO  TestBase:124 - **************TestscreenTestFinished***************
+2019-01-27 22:01:994 INFO  ExtentListner:27 - ReportTest Class Started..
+2019-01-27 22:01:794 INFO  TestBase:170 - initalized webdriver504582810
+2019-01-27 22:01:796 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 22:01:796 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 22:01:816 INFO  WaitHelper:147 - page is loaded
+2019-01-27 22:01:818 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 22:01:861 INFO  ExtentListner:34 - Login Test Started..
+2019-01-27 22:01:863 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:871 INFO  ExtentListner:44 - Login Test Passed..
+2019-01-27 22:01:874 INFO  ExtentListner:34 - Login1 Test Started..
+2019-01-27 22:01:874 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:881 ERROR ExtentListner:52 - Login1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:884 INFO  ExtentListner:34 - Login2 Test Started..
+2019-01-27 22:01:885 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:888 INFO  ExtentListner:44 - Login2 Test Passed..
+2019-01-27 22:01:890 INFO  ExtentListner:34 - Login3 Test Started..
+2019-01-27 22:01:893 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:895 ERROR ExtentListner:52 - Login3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:900 INFO  ExtentListner:34 - testLogin4 Test Started..
+2019-01-27 22:01:901 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:904 ERROR ExtentListner:52 - testLogin4 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:906 INFO  ExtentListner:34 - testLogin5 Test Started..
+2019-01-27 22:01:907 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:908 INFO  ExtentListner:44 - testLogin5 Test Passed..
+2019-01-27 22:01:910 INFO  ExtentListner:34 - testLogin6 Test Started..
+2019-01-27 22:01:911 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:913 ERROR ExtentListner:52 - testLogin6 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:937 INFO  ExtentListner:34 - TestscreenTest Test Started..
+2019-01-27 22:01:986 ERROR ExtentListner:52 - TestscreenTest Test Failed..org.openqa.selenium.TimeoutException: Timeout loading page after 30000ms
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'PARAG-PC', ip: '192.168.1.204', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\Parag\AppData\Local\Temp\rust_mozprofile.TNQaHNl6yVrY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=54.0.1, platformVersion=6.1, moz:processID=6720, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: a2daaa79-ff7a-471f-b0f4-6ab2b727d18e
+2019-01-27 22:01:337 INFO  TestBase:124 - **************TestscreenTestFinished***************
+2019-01-27 22:01:212 INFO  ExtentListner:27 - ReportTest Class Started..
+2019-01-27 22:01:827 INFO  TestBase:173 - initalized webdriver504582810
+2019-01-27 22:01:828 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-27 22:01:829 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-27 22:01:847 INFO  WaitHelper:147 - page is loaded
+2019-01-27 22:01:848 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-27 22:01:879 INFO  ExtentListner:34 - Login Test Started..
+2019-01-27 22:01:882 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:888 INFO  ExtentListner:44 - Login Test Passed..
+2019-01-27 22:01:890 INFO  ExtentListner:34 - Login1 Test Started..
+2019-01-27 22:01:892 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:898 ERROR ExtentListner:52 - Login1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:901 INFO  ExtentListner:34 - Login2 Test Started..
+2019-01-27 22:01:903 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:905 INFO  ExtentListner:44 - Login2 Test Passed..
+2019-01-27 22:01:907 INFO  ExtentListner:34 - Login3 Test Started..
+2019-01-27 22:01:909 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:913 ERROR ExtentListner:52 - Login3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:932 INFO  ExtentListner:34 - testLogin4 Test Started..
+2019-01-27 22:01:933 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:934 ERROR ExtentListner:52 - testLogin4 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:429 INFO  TestBase:127 - **************testLogin4Finished***************
+2019-01-27 22:01:433 INFO  ExtentListner:34 - testLogin5 Test Started..
+2019-01-27 22:01:433 INFO  AssertHelper:16 - making script PASS..
+2019-01-27 22:01:435 INFO  ExtentListner:44 - testLogin5 Test Passed..
+2019-01-27 22:01:498 INFO  TestBase:127 - **************testLogin5Finished***************
+2019-01-27 22:01:501 INFO  ExtentListner:34 - testLogin6 Test Started..
+2019-01-27 22:01:502 INFO  AssertHelper:26 - making script FAIL..
+2019-01-27 22:01:505 ERROR ExtentListner:52 - testLogin6 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-27 22:01:573 INFO  TestBase:127 - **************testLogin6Finished***************
+2019-01-27 22:01:576 INFO  ExtentListner:34 - TestscreenTest Test Started..
+2019-01-27 22:01:928 INFO  TestBase:213 - screenshot copied
+2019-01-27 22:01:929 INFO  TestBase:26 - Screenshot is saved
+2019-01-27 22:01:930 INFO  ExtentListner:44 - TestscreenTest Test Passed..
+2019-01-27 22:01:971 INFO  TestBase:127 - **************TestscreenTestFinished***************
+2019-01-30 22:01:963 INFO  ExtentListner:27 - ReportTest Class Started..
+2019-01-30 22:01:431 INFO  TestBase:173 - initalized webdriver504582810
+2019-01-30 22:01:708 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-30 22:01:709 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-30 22:01:75 INFO  WaitHelper:147 - page is loaded
+2019-01-30 22:01:76 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-30 22:01:215 INFO  ExtentListner:34 - Login Test Started..
+2019-01-30 22:01:622 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:721 INFO  ExtentListner:44 - Login Test Passed..
+2019-01-30 22:01:723 INFO  ExtentListner:34 - Login1 Test Started..
+2019-01-30 22:01:723 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:989 ERROR ExtentListner:52 - Login1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:991 INFO  ExtentListner:34 - Login2 Test Started..
+2019-01-30 22:01:992 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:994 INFO  ExtentListner:44 - Login2 Test Passed..
+2019-01-30 22:01:996 INFO  ExtentListner:34 - Login3 Test Started..
+2019-01-30 22:01:998 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:02 ERROR ExtentListner:52 - Login3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:51 INFO  ExtentListner:34 - testLogin4 Test Started..
+2019-01-30 22:01:51 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:52 ERROR ExtentListner:52 - testLogin4 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:14 INFO  TestBase:127 - **************testLogin4Finished***************
+2019-01-30 22:01:17 INFO  ExtentListner:34 - testLogin5 Test Started..
+2019-01-30 22:01:18 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:19 INFO  ExtentListner:44 - testLogin5 Test Passed..
+2019-01-30 22:01:130 INFO  TestBase:127 - **************testLogin5Finished***************
+2019-01-30 22:01:133 INFO  ExtentListner:34 - testLogin6 Test Started..
+2019-01-30 22:01:134 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:136 ERROR ExtentListner:52 - testLogin6 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:194 INFO  TestBase:127 - **************testLogin6Finished***************
+2019-01-30 22:01:197 INFO  ExtentListner:34 - TestscreenTest Test Started..
+2019-01-30 22:01:891 INFO  TestBase:213 - screenshot copied
+2019-01-30 22:01:891 INFO  TestBase:26 - Screenshot is saved
+2019-01-30 22:01:893 INFO  ExtentListner:44 - TestscreenTest Test Passed..
+2019-01-30 22:01:929 INFO  TestBase:127 - **************TestscreenTestFinished***************
+2019-01-30 22:01:525 INFO  ExtentListner:27 - ReportTest Class Started..
+2019-01-30 22:01:780 INFO  TestBase:173 - initalized webdriver1552179791
+2019-01-30 22:01:07 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-30 22:01:08 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-30 22:01:328 INFO  WaitHelper:147 - page is loaded
+2019-01-30 22:01:328 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-30 22:01:371 INFO  ExtentListner:34 - Login Test Started..
+2019-01-30 22:01:396 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:400 INFO  ExtentListner:44 - Login Test Passed..
+2019-01-30 22:01:402 INFO  ExtentListner:34 - Login1 Test Started..
+2019-01-30 22:01:403 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:558 ERROR ExtentListner:52 - Login1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:566 INFO  ExtentListner:34 - Login2 Test Started..
+2019-01-30 22:01:567 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:570 INFO  ExtentListner:44 - Login2 Test Passed..
+2019-01-30 22:01:571 INFO  ExtentListner:34 - Login3 Test Started..
+2019-01-30 22:01:572 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:579 ERROR ExtentListner:52 - Login3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:595 INFO  ExtentListner:34 - testLogin4 Test Started..
+2019-01-30 22:01:595 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:598 ERROR ExtentListner:52 - testLogin4 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:02 INFO  TestBase:127 - **************testLogin4Finished***************
+2019-01-30 22:01:04 INFO  ExtentListner:34 - testLogin5 Test Started..
+2019-01-30 22:01:05 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:06 INFO  ExtentListner:44 - testLogin5 Test Passed..
+2019-01-30 22:01:64 INFO  TestBase:127 - **************testLogin5Finished***************
+2019-01-30 22:01:71 INFO  ExtentListner:34 - testLogin6 Test Started..
+2019-01-30 22:01:72 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:77 ERROR ExtentListner:52 - testLogin6 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:174 INFO  TestBase:127 - **************testLogin6Finished***************
+2019-01-30 22:01:177 INFO  ExtentListner:34 - TestscreenTest Test Started..
+2019-01-30 22:01:59 INFO  TestBase:213 - screenshot copied
+2019-01-30 22:01:60 INFO  TestBase:26 - Screenshot is saved
+2019-01-30 22:01:61 INFO  ExtentListner:44 - TestscreenTest Test Passed..
+2019-01-30 22:01:105 INFO  TestBase:127 - **************TestscreenTestFinished***************
+2019-01-30 22:01:232 INFO  ExtentListner:27 - ReportTest Class Started..
+2019-01-30 22:01:210 INFO  TestBase:173 - initalized webdriver990870941
+2019-01-30 22:01:211 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-30 22:01:212 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-30 22:01:263 INFO  WaitHelper:147 - page is loaded
+2019-01-30 22:01:263 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-30 22:01:303 INFO  ExtentListner:34 - Login Test Started..
+2019-01-30 22:01:307 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:314 INFO  ExtentListner:44 - Login Test Passed..
+2019-01-30 22:01:316 INFO  ExtentListner:34 - Login1 Test Started..
+2019-01-30 22:01:317 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:340 ERROR ExtentListner:52 - Login1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:344 INFO  ExtentListner:34 - Login2 Test Started..
+2019-01-30 22:01:347 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:356 INFO  ExtentListner:44 - Login2 Test Passed..
+2019-01-30 22:01:372 INFO  ExtentListner:34 - Login3 Test Started..
+2019-01-30 22:01:381 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:389 ERROR ExtentListner:52 - Login3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:415 INFO  ExtentListner:34 - testLogin4 Test Started..
+2019-01-30 22:01:416 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:421 ERROR ExtentListner:52 - testLogin4 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:805 INFO  TestBase:127 - **************testLogin4Finished***************
+2019-01-30 22:01:808 INFO  ExtentListner:34 - testLogin5 Test Started..
+2019-01-30 22:01:809 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:812 INFO  ExtentListner:44 - testLogin5 Test Passed..
+2019-01-30 22:01:888 INFO  TestBase:127 - **************testLogin5Finished***************
+2019-01-30 22:01:891 INFO  ExtentListner:34 - testLogin6 Test Started..
+2019-01-30 22:01:892 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:897 ERROR ExtentListner:52 - testLogin6 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:958 INFO  TestBase:127 - **************testLogin6Finished***************
+2019-01-30 22:01:962 INFO  ExtentListner:34 - TestscreenTest Test Started..
+2019-01-30 22:01:650 INFO  TestBase:213 - screenshot copied
+2019-01-30 22:01:650 INFO  TestBase:26 - Screenshot is saved
+2019-01-30 22:01:651 INFO  ExtentListner:44 - TestscreenTest Test Passed..
+2019-01-30 22:01:697 INFO  TestBase:127 - **************TestscreenTestFinished***************
+2019-01-30 22:01:308 INFO  ExtentListner:30 - ReportTest Class Started..
+2019-01-30 22:01:486 INFO  TestBase:173 - initalized webdriver504582810
+2019-01-30 22:01:489 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-30 22:01:490 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-30 22:01:501 INFO  WaitHelper:147 - page is loaded
+2019-01-30 22:01:502 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-30 22:01:556 INFO  ExtentListner:37 - Login Test Started..
+2019-01-30 22:01:558 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:562 INFO  ExtentListner:47 - Login Test Passed..
+2019-01-30 22:01:565 INFO  ExtentListner:37 - Login1 Test Started..
+2019-01-30 22:01:565 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:572 ERROR ExtentListner:55 - Login1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:582 INFO  ExtentListner:37 - Login2 Test Started..
+2019-01-30 22:01:583 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:587 INFO  ExtentListner:47 - Login2 Test Passed..
+2019-01-30 22:01:590 INFO  ExtentListner:37 - Login3 Test Started..
+2019-01-30 22:01:594 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:599 ERROR ExtentListner:55 - Login3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:643 INFO  ExtentListner:37 - testLogin4 Test Started..
+2019-01-30 22:01:644 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:646 ERROR ExtentListner:55 - testLogin4 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:315 INFO  TestBase:127 - **************testLogin4Finished***************
+2019-01-30 22:01:317 INFO  ExtentListner:37 - testLogin5 Test Started..
+2019-01-30 22:01:318 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:320 INFO  ExtentListner:47 - testLogin5 Test Passed..
+2019-01-30 22:01:389 INFO  TestBase:127 - **************testLogin5Finished***************
+2019-01-30 22:01:392 INFO  ExtentListner:37 - testLogin6 Test Started..
+2019-01-30 22:01:392 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:394 ERROR ExtentListner:55 - testLogin6 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:462 INFO  TestBase:127 - **************testLogin6Finished***************
+2019-01-30 22:01:465 INFO  ExtentListner:37 - TestscreenTest Test Started..
+2019-01-30 22:01:476 INFO  TestBase:213 - screenshot copied
+2019-01-30 22:01:477 INFO  TestBase:26 - Screenshot is saved
+2019-01-30 22:01:478 INFO  ExtentListner:47 - TestscreenTest Test Passed..
+2019-01-30 22:01:535 INFO  TestBase:127 - **************TestscreenTestFinished***************
+2019-01-30 22:01:17 INFO  ExtentListner:30 - ReportTest Class Started..
+2019-01-30 22:01:890 INFO  TestBase:173 - initalized webdriver516537656
+2019-01-30 22:01:892 INFO  WaitHelper:26 - WaitHelper object created..
+2019-01-30 22:01:892 INFO  WaitHelper:145 - waiting for page to load for : SECONDS seconds
+2019-01-30 22:01:902 INFO  WaitHelper:147 - page is loaded
+2019-01-30 22:01:903 INFO  WaitHelper:38 - Implicit Wait has been set to: 30
+2019-01-30 22:01:939 INFO  ExtentListner:37 - Login Test Started..
+2019-01-30 22:01:942 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:946 INFO  ExtentListner:47 - Login Test Passed..
+2019-01-30 22:01:950 INFO  ExtentListner:37 - Login1 Test Started..
+2019-01-30 22:01:951 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:955 ERROR ExtentListner:55 - Login1 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:957 INFO  ExtentListner:37 - Login2 Test Started..
+2019-01-30 22:01:958 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:962 INFO  ExtentListner:47 - Login2 Test Passed..
+2019-01-30 22:01:965 INFO  ExtentListner:37 - Login3 Test Started..
+2019-01-30 22:01:967 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:969 ERROR ExtentListner:55 - Login3 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:990 INFO  ExtentListner:37 - testLogin4 Test Started..
+2019-01-30 22:01:991 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:994 ERROR ExtentListner:55 - testLogin4 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:306 INFO  TestBase:127 - **************testLogin4Finished***************
+2019-01-30 22:01:309 INFO  ExtentListner:37 - testLogin5 Test Started..
+2019-01-30 22:01:310 INFO  AssertHelper:16 - making script PASS..
+2019-01-30 22:01:311 INFO  ExtentListner:47 - testLogin5 Test Passed..
+2019-01-30 22:01:372 INFO  TestBase:127 - **************testLogin5Finished***************
+2019-01-30 22:01:375 INFO  ExtentListner:37 - testLogin6 Test Started..
+2019-01-30 22:01:376 INFO  AssertHelper:26 - making script FAIL..
+2019-01-30 22:01:378 ERROR ExtentListner:55 - testLogin6 Test Failed..java.lang.AssertionError: expected [true] but found [false]
+2019-01-30 22:01:461 INFO  TestBase:127 - **************testLogin6Finished***************
+2019-01-30 22:01:463 INFO  ExtentListner:37 - TestscreenTest Test Started..
+2019-01-30 22:01:447 INFO  TestBase:213 - screenshot copied
+2019-01-30 22:01:447 INFO  TestBase:26 - Screenshot is saved
+2019-01-30 22:01:448 INFO  ExtentListner:47 - TestscreenTest Test Passed..
+2019-01-30 22:01:489 INFO  TestBase:127 - **************TestscreenTestFinished***************
+2019-01-30 23:01:470 INFO  TestBase:173 - initalized webdriver527829831
+2020-08-23 19:08:118 INFO  AssertHelper:16 - making script PASS..
+2020-08-23 19:08:139 INFO  AssertHelper:26 - making script FAIL..
+2020-08-23 19:08:218 INFO  AssertHelper:16 - making script PASS..
+2020-08-23 19:08:224 INFO  AssertHelper:26 - making script FAIL..

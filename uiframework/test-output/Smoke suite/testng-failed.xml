@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Smoke suite]">
+  <listeners>
+    <listener class-name="uiframework.uiframework.Paragcom.freecrm.helper.Listener.ExtentListner"/>
+  </listeners>
+  <test thread-count="5" name="ReportTest(failed)">
+    <classes>
+      <class name="uiframework.uiframework.Paragcom.freecrm.TestScript.Test2">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="BeforeAnyClass"/>
+          <include name="testLogin4"/>
+          <include name="testLogin6"/>
+          <include name="Beforesuite"/>
+          <include name="Beforetest"/>
+          <include name="AfterMethod"/>
+        </methods>
+      </class> <!-- uiframework.uiframework.Paragcom.freecrm.TestScript.Test2 -->
+      <class name="uiframework.uiframework.Paragcom.freecrm.TestScript.Report">
+        <methods>
+          <include name="Login3"/>
+          <include name="Login1"/>
+        </methods>
+      </class> <!-- uiframework.uiframework.Paragcom.freecrm.TestScript.Report -->
+    </classes>
+  </test> <!-- ReportTest(failed) -->
+</suite> <!-- Failed suite [Smoke suite] -->

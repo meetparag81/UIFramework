@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testingsuite">
+<listeners>
+<listener class-name="uiframework.uiframework.Paragcom.freecrm.helper.Listener.ExtentListner"></listener>
+<!--  <listener class-name="uiframework.uiframework.Paragcom.freecrm.helper.Listener.RetryListener"></listener>-->
+</listeners>
+  <test thread-count="5" name="Report">
+    <classes>
+      <class name="Report"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
