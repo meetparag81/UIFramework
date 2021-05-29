@@ -1,6 +1,5 @@
 package uiframework.uiframework.Paragcom.freecrm.helper.wait;
 
-import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.ElementNotVisibleException;

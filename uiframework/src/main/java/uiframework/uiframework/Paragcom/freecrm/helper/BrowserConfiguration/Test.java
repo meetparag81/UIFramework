@@ -3,8 +3,6 @@ package uiframework.uiframework.Paragcom.freecrm.helper.BrowserConfiguration;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import uiframework.uiframework.Paragcom.freecrm.helper.resource.ResourceHelper;
-
 public class Test 
 {
 	public static void main(String[] args) 

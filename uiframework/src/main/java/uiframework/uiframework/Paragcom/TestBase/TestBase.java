@@ -26,7 +26,6 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.commons.logging.Log;
 import org.apache.log4j.Logger;
 import uiframework.uiframework.Paragcom.Utils.ExtentManager;
 import uiframework.uiframework.Paragcom.freecrm.helper.BrowserConfiguration.BrowserType;

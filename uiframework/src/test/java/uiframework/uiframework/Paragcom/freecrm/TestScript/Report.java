@@ -1,9 +1,7 @@
 package uiframework.uiframework.Paragcom.freecrm.TestScript;
 
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-import uiframework.uiframework.Paragcom.TestBase.TestBase;
 import uiframework.uiframework.Paragcom.freecrm.helper.Aseertion.AssertHelper;
 
 public class Report  

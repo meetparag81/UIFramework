@@ -2,14 +2,9 @@ package uiframework.uiframework.Paragcom.freecrm.helper.BrowserConfiguration.con
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.Properties;
 
 import org.apache.log4j.Logger;
-import org.apache.poi.POIXMLProperties;
-
-import uiframework.uiframework.Paragcom.TestBase.TestBase;
 import uiframework.uiframework.Paragcom.freecrm.helper.BrowserConfiguration.BrowserType;
 import uiframework.uiframework.Paragcom.freecrm.helper.resource.ResourceHelper;
 import uiframework.uiframework.Paragcom.freecrm.logger.LoggerHelper;

@@ -1,6 +1,5 @@
 package uiframework.uiframework.Paragcom.freecrm.TestScript;
 import org.apache.log4j.Logger;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import uiframework.uiframework.Paragcom.TestBase.TestBase;

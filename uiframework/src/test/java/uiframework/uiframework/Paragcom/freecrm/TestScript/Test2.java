@@ -1,7 +1,6 @@
 package uiframework.uiframework.Paragcom.freecrm.TestScript;
 
 
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 import uiframework.uiframework.Paragcom.TestBase.TestBase;

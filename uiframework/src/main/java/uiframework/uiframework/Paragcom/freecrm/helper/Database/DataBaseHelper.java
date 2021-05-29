@@ -2,8 +2,6 @@ package uiframework.uiframework.Paragcom.freecrm.helper.Database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.SQLException;
-
 import org.apache.log4j.Logger;
 
 import uiframework.uiframework.Paragcom.freecrm.logger.LoggerHelper;
